@@ -8,13 +8,6 @@
 
 💻 Data Statistics
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MatoYing&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=gruvbox" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MatoYing&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=gruvbox" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatoYing&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
-</div>
-
-🎯 Complete Project
-<div align="center">
-<a href="https://github.com/MatoYing/TextMining">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=MatoYing&repo=TextMining&hide_border=true&card_width=&theme=dracula" /></a>
-<!-- 之后补充 -->
 </div>
