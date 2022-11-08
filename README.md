@@ -2,8 +2,24 @@
 <p>&emsp;&emsp;Hello everyone. Welocme back to my GitHub. I am from China, and I'm in my fourth year of university. My major is software engineering. Actually, I haven't had any notable works now. I will do my best and wish <img src="https://visitor-badge.glitch.me/badge?page_id=MatoYing" alt="vistors" /> can increase.</p>
 
 🧠 Technology stack:
-<p>&emsp;&emsp;Back End:</p>
-<p>&emsp;&emsp;Front End:</p>
+- Main Language
+  + Java
+  + Python
+- Back End
+  + SSM(Spring,SpringMVC,Mybatis)
+  + SpringBoot
+  + SpringCloud
+  + MySQL
+  + Redis
+- Front End
+  + HTML
+  + CSS
+  + JavaScript
+  + Vue
+  + Bootstrap
+- Other
+  + scikit-learn
+  + Seaborn(Matplotlib)
 
 💻 Data Statistics
 <div align="center">
