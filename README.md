@@ -3,7 +3,7 @@
 ## About Me
 
 + Hi guys. I'm not sure what to say. Honestly, I don't have much to show off because I'm not great. But I'm a friendly person, so if you have any questions about my projects, feel free to reach out!
-+ In 2024, I finally graduated from school. Looking back on my student life, I feel like I've made a lot of mistakes and didn't do very well in many ways. Besides my own reasons, I also dislike schools. They have always been wasting my time, teaching me useless things, and making me do meaningless tasks. I hate my student life. Now I finally don't have to stay in school to finish assignments and take exams anymore. I can finally focus on things I truly want to do.
++ In 2024, I finally graduated from school. Looking back on my student life, I feel like I've made a lot of mistakes and didn't do very well in many ways. Besides my own reasons, I also dislike schools. They have always been wasting my time, teaching me useless things, and making me do meaningless tasks. I hate my student life and I am a loser. Now I finally don't have to stay in school to finish assignments and take exams anymore. I can finally focus on things I truly want to do.
 + In China, if you can’t get into a good university for your bachelor’s degree, it can be really tough for your future. This has always been one of my regrets. I’m not sure how many chances I still have. But no matter what, I can’t give up.
 + Bless me!  
 
